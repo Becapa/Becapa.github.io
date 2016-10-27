@@ -16,15 +16,11 @@ section {
 	#intro h1 {
 		width: 858px;
 		height: 161px;
-		text-indent: -9999px;
 		position: relative;
-		top: 145 px;
-		left: 0;
 	}
 	#intro p {
 		position: relative;
 		top: 200px;
-		left: 350px;
 		width: 508px;
 		margin: 0 0 30px 0;
 	}
