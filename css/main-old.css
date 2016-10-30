@@ -1,0 +1,29 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+	font: 18px/30px Sans-serif; 
+	color: #000;
+}
+
+section {
+	overflow: hidden; 
+	height: 993px;
+}
+
+#intro {
+	background: #c3c2c1;
+}
+	#intro h1 {
+		width: 858px;
+		height: 161px;
+		position: relative;
+	}
+	#intro p {
+		position: relative;
+		top: 200px;
+		width: 508px;
+		margin: 0 0 30px 0;
+	}
+	#intro p:nth-child(2) {
+		font-weight: bold;
+	}
