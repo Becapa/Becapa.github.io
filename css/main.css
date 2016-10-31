@@ -33,5 +33,5 @@ section {
 #introcrawl {
 	position: absolute;
 	top: 100%;
-	animation: scroll 100s linear 4s infinite;
+	animation: scroll 10s linear 4s infinite;
 }
