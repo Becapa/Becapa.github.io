@@ -21,10 +21,10 @@ section {
 		color: rgb(75, 213, 238);
 	}
 	#intro p {
-		width: 25em;
+		width: 35%;
 		position: relative;
 		top: 200px;
-		margin-left: 25em;
+		margin-left: 35%;
 		text-align: justify;
 		transform-origin: 50% 50%;
 		transform: perspective(5em) rotateX(25deg);
