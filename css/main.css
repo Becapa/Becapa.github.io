@@ -29,6 +29,9 @@ section {
 		transform-origin: 50% 50%;
 		transform: perspective(5em) rotateX(25deg);
 	}
-	#intro p:nth-child(2) {
-		font-weight: bold;
-	}
+
+#introcrawl {
+	position: absolute;
+	top: 100%;
+	animation: scroll 100s linear 4s infinite;
+}
