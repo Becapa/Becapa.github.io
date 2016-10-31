@@ -1,8 +1,6 @@
 body {
-    margin: 60px auto;
     width: 100%;
 	font: 18px/30px Sans-serif; 
-	color: #000;
 }
 
 section {
@@ -12,7 +10,6 @@ section {
 
 #intro {
 	background-color: #000;
-	color: rgb(75, 213, 238);
 }
 	#intro h1 {
 		width: 100%;
