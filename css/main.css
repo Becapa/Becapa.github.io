@@ -12,7 +12,9 @@ section {
 	background-color: #000;
 }
 	#intro h1 {
-		width: 100%;
+		margin-top: 5em;
+		margin-left: 28%;
+		margin-right: 28%;
 		height: 161px;
 		position: relative;
 		color: rgb(75, 213, 238);
