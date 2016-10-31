@@ -11,12 +11,16 @@ section {
 }
 
 #intro {
-	background-image:url('../img/introbcg.jpg');
+	background-color: black;
 }
 	#intro h1 {
 		width: 858px;
 		height: 161px;
 		position: relative;
+		font-weight: 400;
+		color: rgb(75, 213, 238);
+		opacity: 0;
+		animation: intro 6s ease-out 1s;
 	}
 	#intro p {
 		position: relative;
