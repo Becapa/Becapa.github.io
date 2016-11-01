@@ -9,6 +9,14 @@ section {
 
 #intro {
 	background-color: #000;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 	#intro h1 {
 		height: 161px;
@@ -22,3 +30,9 @@ section {
 		transform-origin: 50% 50%;
 		transform: perspective(5em) rotateX(25deg);
 	}
+
+.text-vcenter {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
