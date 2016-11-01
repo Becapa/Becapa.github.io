@@ -1,7 +1,6 @@
 body {
     width: 100%;
 	font: 18px/30px Sans-serif; 
-	color: #ff6;
 }
 
 section {
@@ -27,6 +26,7 @@ section {
 		top: 15%;
 		margin-left: 35%;
 		text-align: justify;
+		color: #ff6;
 		transform-origin: 50% 50%;
 		transform: perspective(5em) rotateX(25deg);
 	}
