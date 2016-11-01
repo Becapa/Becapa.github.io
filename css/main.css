@@ -6,7 +6,7 @@ body {
 
 section {
 	overflow: hidden; 
-	height: 993px;
+	height: 1400px;
 }
 
 #intro {
@@ -19,7 +19,7 @@ section {
 		width: 44%;
 		height: 161px;
 		position: fixed;
-		top: 45%;
+		top: 15%;
 		color: rgb(75, 213, 238);
 	}
 	#intro p {
