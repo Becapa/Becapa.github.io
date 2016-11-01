@@ -10,8 +10,6 @@ section {
 #intro {
 	background-color: #000;
 	display: table;
-	height: 100%;
-	position: relative;
 	width: 100%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
