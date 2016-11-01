@@ -24,8 +24,8 @@ section {
 	}
 	#intro p {
 		width: 30%;
-		position: relative;
-		top: 200px;
+		position: fixed;
+		top: 45%;
 		margin-left: 35%;
 		text-align: justify;
 		transform-origin: 50% 50%;
