@@ -16,12 +16,14 @@ section {
 		margin-top: 6em;
 		margin-left: 28%;
 		margin-right: 28%;
+		width: 44%;
 		height: 161px;
-		position: relative;
+		position: fixed;
+		top: 45%;
 		color: rgb(75, 213, 238);
 	}
 	#intro p {
-		width: 35%;
+		width: 30%;
 		position: relative;
 		top: 200px;
 		margin-left: 35%;
@@ -29,9 +31,3 @@ section {
 		transform-origin: 50% 50%;
 		transform: perspective(5em) rotateX(25deg);
 	}
-
-#introcrawl {
-	position: absolute;
-	top: 100%;
-	animation: scroll 10s linear 4s infinite;
-}
