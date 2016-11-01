@@ -1,6 +1,5 @@
 body {
-    width: 100%;
-	font: 18px/30px Sans-serif; 
+   	font: 18px/30px Sans-serif; 
 }
 
 section {
@@ -17,10 +16,7 @@ section {
 		color: rgb(75, 213, 238);
 	}
 	#intro p {
-		width: 30%;
 		position: fixed;
-		top: 35%;
-		margin-left: 35%;
 		text-align: justify;
 		color: #ff6;
 		transform-origin: 50% 50%;
