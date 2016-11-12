@@ -12,19 +12,16 @@ section {
 	background-color: #000;
 }
 	#intro h1 {
-		margin-left: 28%;
-		margin-right: 28%;
-		width: 44%;
+		margin-left: auto;
+		margin-right: auto;
+		width: 30%;
 		height: 161px;
-		position: fixed;
-		top: 35%;
 		color: rgb(75, 213, 238);
 	}
 	#intro p {
 		width: 30%;
-		position: fixed;
-		top: 35%;
-		margin-left: 35%;
+		margin-left: auto;
+		margin-right: auto;
 		text-align: justify;
 		color: #ff6;
 		transform-origin: 50% 50%;
