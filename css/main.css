@@ -12,10 +12,12 @@ section {
 }
 	#intro h1 {
 		position: fixed;
-		margin-left: auto;
-		margin-right: auto;
-		width: 30%;
-		height: 161px;
+		top: 50%
+		left: 50%
+		width: 500px;
+		height: 500px;
+		margin-left: -250px;
+		margin-top: -250px;
 		color: rgb(75, 213, 238);
 	}
 	#intro p {
