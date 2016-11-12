@@ -17,6 +17,7 @@ section {
 	background-size: cover;
 }
 	#intro h1 {
+		position: fixed;
 		margin-left: auto;
 		margin-right: auto;
 		width: 30%;
@@ -24,6 +25,7 @@ section {
 		color: rgb(75, 213, 238);
 	}
 	#intro p {
+		position: fixed;
 		width: 30%;
 		margin-left: auto;
 		margin-right: auto;
@@ -34,9 +36,3 @@ section {
 		transform-origin: 50% 50%;
 		transform: perspective(5em) rotateX(25deg);
 	}
-
-.text-vcenter {
-	display: table-cell;
-	text-align: center;
-	vertical-align: middle;
-}
