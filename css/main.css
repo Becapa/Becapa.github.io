@@ -4,17 +4,11 @@ body {
 
 section {
 	overflow: hidden; 
-	height: 1400px;
+	height: 2000px;
 }
 
 #intro {
 	background-color: #000;
-	display: table;
-	width: 100%;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
 }
 	#intro h1 {
 		position: fixed;
@@ -33,6 +27,5 @@ section {
 		color: rgb(75, 213, 238);
 		text-align: justify;
 		color: #ff6;
-		transform-origin: 50% 50%;
 		transform: perspective(5em) rotateX(25deg);
 	}
