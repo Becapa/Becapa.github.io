@@ -12,8 +12,8 @@ section {
 }
 	#intro h1 {
 		position: fixed;
-		top: 50%
-		left: 50%
+		top: 50%;
+		left: 50%;
 		width: 500px;
 		height: 500px;
 		margin-left: -250px;
