@@ -24,10 +24,8 @@ section {
 	background-color: #000;
 }
 	#intro2 p {
-		position: fixed;
-		width: 600px;
+		width: 300px;
 		left: 50%;
-		margin-left: -300px;
 		text-align: justify;
 		color: #ff6;
 		transform: perspective(5em) rotateX(25deg);
