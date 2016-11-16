@@ -26,7 +26,6 @@ section {
 		left: 50%;
 		margin-left: -300px;
 		margin-top: -300px;
-		color: rgb(75, 213, 238);
 		text-align: justify;
 		color: #ff6;
 		transform: perspective(5em) rotateX(25deg);
