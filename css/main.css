@@ -7,10 +7,10 @@ section {
 	height: 1500px;
 }
 
-#intro {
+#intro1 {
 	background-color: #000;
 }
-	#intro h1 {
+	#intro1 h1 {
 		position: fixed;
 		top: 50%;
 		left: 50%;
@@ -20,7 +20,10 @@ section {
 		margin-top: -100px;
 		color: rgb(75, 213, 238);
 	}
-	#intro p {
+#intro2 {
+	background-color: #000;
+}
+	#intro2 p {
 		position: fixed;
 		width: 600px;
 		left: 50%;
