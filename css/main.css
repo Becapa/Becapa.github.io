@@ -70,12 +70,12 @@ section {
 	    position: absolute;
 	    left: 30%;
 }
-#not-fertile .bcg {background-image:url('../img/bg_tatooine_xl.jpg')}
-#not-fertile .hsContent {
+#tatooine .bcg {background-image:url('../img/bg_tatooine_xl.jpg')}
+#tatooine .hsContent {
     margin-left: -450px;
     top: auto;
 }
-#not-fertile p {
+#tatooine p {
     position: fixed;
     top: 70%;
 }
