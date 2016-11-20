@@ -24,9 +24,14 @@ section {
 	background-color: #000;
 }
 	#intro2 p {
-		width: 300px;
-		left: 50%;
-		text-align: justify;
-		color: #ff6;
-		transform: perspective(5em) rotateX(25deg);
+		    width: 40%;
+		    text-align: justify;
+		    color: #ff6;
+		    transform: perspective(7em) rotateX(25deg);
+		    position: absolute;
+		    left: 30%;
 	}
+
+#not-fertile {
+	background-url: "/img/bg_tattoine_xl.jpg";
+}
