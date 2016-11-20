@@ -10,28 +10,33 @@ section {
 #intro1 {
 	background-color: #000;
 }
-	#intro1 h1 {
-		position: fixed;
-		top: 50%;
-		left: 50%;
-		width: 600px;
-		height: 200px;
-		margin-left: -300px;
-		margin-top: -100px;
-		color: rgb(75, 213, 238);
-	}
+#intro1 h1 {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	width: 600px;
+	height: 200px;
+	margin-left: -300px;
+	margin-top: -100px;
+	color: rgb(75, 213, 238);
+}
 #intro2 {
 	background-color: #000;
 }
-	#intro2 p {
-		    width: 40%;
-		    text-align: justify;
-		    color: #ff6;
-		    transform: perspective(7em) rotateX(25deg);
-		    position: absolute;
-		    left: 30%;
-	}
-
-#not-fertile {
-	background-image: url("../img/bg_tattoine_xl.jpg");
+#intro2 p {
+	    width: 40%;
+	    text-align: justify;
+	    color: #ff6;
+	    transform: perspective(7em) rotateX(25deg);
+	    position: absolute;
+	    left: 30%;
+}
+#not-fertile .bcg {background-image:url('../img/bg_tatooine_xl.jpg')}
+#not-fertile .hsContent {
+    margin-left: -450px;
+    top: auto;
+}
+#not-fertile p {
+    position: fixed;
+    top: 70%;
 }
