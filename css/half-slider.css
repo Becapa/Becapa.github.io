@@ -13,13 +13,41 @@ body {
 /* You can change the height of the carousel by changing the height in the class below. It is set to 50% by default, but can be any height! */
 
 .carousel {
-    height: 50%;
+    height: 100%;
+}
+
+.carousel-control.right {
+	background-image: none;
+	right: -25px;
+}
+
+.carousel-control.left {
+	background-image: none;
+	left: -25px;
 }
 
 .item,
 .active,
 .carousel-inner {
-    height: 100%;
+    overflow: visible;
+}
+
+.carousel-caption {
+	top: 100%;
+	color: yellow;
+	width: 100%;
+	left: 0;
+	right: 0;
+}
+
+.carousel-indicators {
+	top: 107%;
+}
+.carousel-indicators .active {
+	background-color: yellow;
+}
+.carousel-indicators li {
+	border: 1px solid yellow;
 }
 
 /* Background images are set within the HTML using inline CSS, not here */
