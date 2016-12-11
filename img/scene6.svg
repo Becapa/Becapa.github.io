@@ -77,9 +77,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-28.644206"
-     inkscape:cy="837.88815"
+     inkscape:zoom="0.64"
+     inkscape:cx="208.25307"
+     inkscape:cy="776.23862"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -1385,4 +1385,33 @@
      inkscape:groupmode="layer"
      id="layer22"
      inkscape:label="Layer 16" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.84193808px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 350.73168,386.25726 68.85383,9.15728 c 0,0 195.64072,42.21101 247.64122,-22.32862 15.86599,-19.69183 11.40464,-56.6309 -9.41653,-75.27821 -33.82473,-30.29327 -96.94462,-25.21076 -147.83958,-23.8125 -38.02197,1.04459 -73.21789,2.07265 -106.21063,15.97378 -13.51777,5.69556 -27.7514,13.8632 -35.07891,26.57056 -4.45831,7.7316 -5.64973,17.96039 -3.30043,26.57055 2.83647,10.39564 19.72603,25.61088 19.72603,25.61088 z"
+     id="path5076"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccaasaaacc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="404.6875"
+     y="319.54971"
+     id="text5654"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5656"
+       x="404.6875"
+       y="319.54971">We're not sure what will</tspan><tspan
+       sodipodi:role="line"
+       x="404.6875"
+       y="341.42471"
+       id="tspan5658">grow from this seed. But</tspan><tspan
+       sodipodi:role="line"
+       x="404.6875"
+       y="363.29971"
+       id="tspan5660">thank you very much for </tspan><tspan
+       sodipodi:role="line"
+       x="404.6875"
+       y="385.17471"
+       id="tspan5662">helping us out!</tspan></text>
 </svg>
