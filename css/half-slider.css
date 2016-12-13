@@ -93,7 +93,7 @@ body {
 }
 
 #intro h1{
-		padding-bottom: 50%;
+		padding-bottom: 40%;
 	}
 
 @media only screen and (min-width: 768px){
@@ -129,6 +129,11 @@ body {
 	margin-left: 40%;
 }
 
+#outro{
+	color: rgb(75, 213, 238);
+	text-align: center;
+}
+
 .pictures {
   margin-top: 4em;
 }
@@ -136,8 +141,4 @@ body {
 .pictures img{
   max-width: 100%;
   height: auto;
-}
-
-footer {
-    margin: 50px 0;
 }
