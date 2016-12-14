@@ -86,7 +86,7 @@
     </div>
     <div class="item">
       <div class="carousel-caption">
-      	<h4>They were minding their own business one day on the desert planet of Tattoine. Just walking around, when they happened upon a couple of nerf-herding, Packer-backing, Jedi-wannabes (one a chick, and one a dude) that were trying to plant a seed.</h4>
+      	<h4>They were minding their own business one day on the desert planet of Tatooine. Just walking around, when they happened upon a couple of nerf-herding, Packer-backing, Jedi-wannabes (one a chick, and one a dude) that were trying to plant a seed.</h4>
       </div>
 	  <img src="img/scene2.png" alt="All four characters on Tatooine">
     </div>
@@ -166,8 +166,21 @@
     <!-- Script to Activate the Carousel -->
     <script>
     $('.carousel').carousel({
-		interval: false
+		interval: false,
+		wrap: false
 	})
+	$('#carousel-littleone').on('slid.bs.carousel', '', function() {
+	  var $this = $(this);
+
+	  $this.children('.carousel-control').show();
+
+	  if($('.carousel-inner .item:first').hasClass('active')) {
+		$this.children('.left.carousel-control').hide();
+	  } else if($('.carousel-inner .item:last').hasClass('active')) {
+		$this.children('.right.carousel-control').hide();
+	  }
+
+	});
     </script>
 
 </body>
